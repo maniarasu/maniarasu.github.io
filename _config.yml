@@ -1,3 +1,5 @@
 name: Maniarasu
 markdown: Chennai
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
