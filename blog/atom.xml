@@ -4,7 +4,7 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Maniarasu's Blog</title>
+ <title>Maniarasu Bio</title>
  <link href="http://maniarasu.github.io/blog/atom.xml" rel="self"/>
  <link href="http://maniarasu.github.io/blog"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
